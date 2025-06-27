@@ -9,7 +9,7 @@ const Projects = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-5 m-5">
                     <div className="bg-gray-700 rounded-xl overflow-hidden">
                         <div className="h-48 overflow-hidden">
-                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387600425020293222/Routiny.gif?ex=685def19&is=685c9d99&hm=2f839d2784f1c5f3b7916f6098b1302ff99e2191e17472823deea02754fb08c3&" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
+                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387978305646624818/Routiny.gif?ex=685f4f07&is=685dfd87&hm=03da0699e312ec1760b4d04c10d826f6121a705dc9a728b582f3f42932789408&" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
                         </div>
                         <div>
                             <div className="flex justify-between px-4 py-4 items-center">
