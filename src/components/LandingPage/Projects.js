@@ -9,7 +9,7 @@ const Projects = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-5 m-5">
                     <div className="bg-gray-700 rounded-xl overflow-hidden">
                         <div className="h-48 overflow-hidden">
-                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387978305646624818/Routiny.gif?ex=685f4f07&is=685dfd87&hm=03da0699e312ec1760b4d04c10d826f6121a705dc9a728b582f3f42932789408&" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
+                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387978305646624818/Routiny.gif?ex=6863ec47&is=68629ac7&hm=1911f388239b5e47b95d9741f17ed7bc53dafaf5db8c748506b7faf60b6c0e7c&" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
                         </div>
                         <div>
                             <div className="flex justify-between px-4 py-4 items-center">
@@ -36,7 +36,7 @@ const Projects = () => {
                     </div>
                     <div className="bg-gray-700 rounded-xl overflow-hidden">
                         <div className="h-48 overflow-hidden">
-                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387967494295126086/image.png?ex=685f44f5&is=685df375&hm=6aaf7ad3d233e5bff73775c5b8900e340543d967dbaa0a4060c8497aea2f4977&" alt="PetsInn GIF" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
+                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387967494295126086/image.png?ex=6863e235&is=686290b5&hm=d1dc56bae75f44344f842015a220dfe8f752c0d48a7f9b5489485837d3970069&" alt="PetsInn GIF" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
                         </div>
                         <div>
                             <div className="flex justify-between px-4 py-4 items-center">
