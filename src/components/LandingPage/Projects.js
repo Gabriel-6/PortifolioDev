@@ -9,7 +9,7 @@ const Projects = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-5 m-5">
                     <div className="bg-gray-700 rounded-xl overflow-hidden">
                         <div className="h-48 overflow-hidden">
-                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387978305646624818/Routiny.gif?ex=6863ec47&is=68629ac7&hm=1911f388239b5e47b95d9741f17ed7bc53dafaf5db8c748506b7faf60b6c0e7c&" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
+                            <img src="https://res.cloudinary.com/dnbwedpku/image/upload/v1751391309/Routiny_af47s6.gif" alt="Routiny GIF" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
                         </div>
                         <div>
                             <div className="flex justify-between px-4 py-4 items-center">
@@ -36,7 +36,7 @@ const Projects = () => {
                     </div>
                     <div className="bg-gray-700 rounded-xl overflow-hidden">
                         <div className="h-48 overflow-hidden">
-                            <img src="https://cdn.discordapp.com/attachments/1378529753178312836/1387967494295126086/image.png?ex=6863e235&is=686290b5&hm=d1dc56bae75f44344f842015a220dfe8f752c0d48a7f9b5489485837d3970069&" alt="PetsInn GIF" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
+                            <img src="https://res.cloudinary.com/dnbwedpku/image/upload/v1751391344/PetsInn_qdinon.png" alt="PetsInn" className="w-full h-full object-cover transition duration-500 hover:scale-110" />
                         </div>
                         <div>
                             <div className="flex justify-between px-4 py-4 items-center">
